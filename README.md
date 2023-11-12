@@ -31,6 +31,25 @@ I would like to express sincere gratitude to the creators of the [TwinLiteNet mo
 <br>
 <br>
 
+## Project Structure
+
+The project has the following structure:
+
+```
+
+├── CMakeLists.txt
+├── LICENSE
+├── README.md
+├── assets/
+├── images/
+├── include/
+│   └── twinlitenet_onnxruntime.hpp
+├── models/
+│   └── best.onnx
+└── src/
+    ├── main.cpp
+    └── twinlitenet_onnxruntime.cpp
+```
 ## Requirements
 
 - [ONNX Runtime](https://onnxruntime.ai/)
