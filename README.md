@@ -25,7 +25,7 @@ This repository includes a C++ implementation for performing inference with the 
 </div>
 <br>
 
-## Acknowledgment
+## Acknowledgment 🌟
 
 I would like to express sincere gratitude to the creators of the [TwinLiteNet model](https://github.com/chequanghuy/TwinLiteNet) for their remarkable work .Their open-source contribution has had a profound impact on the community and has paved the way for numerous applications in autonomous driving, robotics, and beyond.Thank you for your exceptional work.
 <br>
