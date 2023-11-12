@@ -25,25 +25,25 @@ This repository includes a C++ implementation for performing inference with the 
 </div>
 <br>
 
-## 🌟 Acknowledgment
+## Acknowledgment
 
 I would like to express sincere gratitude to the creators of the [TwinLiteNet model](https://github.com/chequanghuy/TwinLiteNet) for their remarkable work .Their open-source contribution has had a profound impact on the community and has paved the way for numerous applications in autonomous driving, robotics, and beyond.Thank you for your exceptional work.
 <br>
 <br>
 
-## 🛠️ Requirements
+## Requirements
 
 - [ONNX Runtime](https://onnxruntime.ai/)
 - OpenCV
 <br>
 
-## ⚙️  Build Options
+## Build Options
 
 - **CUDA Inference:** To enable CUDA support for GPU acceleration, build with the `-DENABLE_CUDA=ON` CMake option.
 - **CPU Inference:** For CPU-based inference, no additional options are required.
 <br>
 
-## ▶️ Usage
+## Usage
 
 1. Clone this repository.
 2. Build the project using CMake with your preferred build options.
@@ -56,12 +56,12 @@ make -j8
 4. Execute `./main` and Enjoy accurate lane detection and drivable area results!
 <br>
 
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use it in both open-source and commercial applications.
 <br><br>
 
-## 🌐 Extras
+## Extras
 
 - [TwinLiteNet](https://github.com/chequanghuy/TwinLiteNet) 
 - [TwinLiteNet-OpenCV-DNN](https://github.com/harrylal/TwinLiteNet-onnx-opencv-dnn)
