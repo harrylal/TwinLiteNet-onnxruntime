@@ -50,6 +50,9 @@ The project has the following structure:
     ├── main.cpp
     └── twinlitenet_onnxruntime.cpp
 ```
+
+<br>
+
 ## Requirements
 
 - [ONNX Runtime](https://onnxruntime.ai/)
@@ -73,6 +76,7 @@ cmake  -DENABLE_CUDA=ON ..
 make -j8
 ```
 4. Execute `./main` and Enjoy accurate lane detection and drivable area results!
+
 <br>
 
 ## License
