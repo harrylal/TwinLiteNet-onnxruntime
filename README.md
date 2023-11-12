@@ -37,7 +37,7 @@ I would like to express sincere gratitude to the creators of the [TwinLiteNet mo
 
 ## Build Options
 
-- **CUDA Inference:** To enable CUDA support for GPU acceleration, build with the `-ENABLE_CUDA=ON` CMake option.
+- **CUDA Inference:** To enable CUDA support for GPU acceleration, build with the `-DENABLE_CUDA=ON` CMake option.
 - **CPU Inference:** For CPU-based inference, no additional options are required.
 
 ## Usage
@@ -47,7 +47,7 @@ I would like to express sincere gratitude to the creators of the [TwinLiteNet mo
 ```cpp
 mkdir build
 cd build
-cmake  -ENABLE_CUDA=ON ..
+cmake  -DENABLE_CUDA=ON ..
 make -j8
 ```
 4. Execute `./main` and Enjoy accurate lane detection and drivable area results!
