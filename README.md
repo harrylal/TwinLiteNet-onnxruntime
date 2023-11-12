@@ -31,7 +31,7 @@ I would like to express sincere gratitude to the creators of the [TwinLiteNet mo
 
 ## Requirements
 
-- ONNX Runtime
+- [ONNX Runtime](https://onnxruntime.ai/)
 - OpenCV
 
 
